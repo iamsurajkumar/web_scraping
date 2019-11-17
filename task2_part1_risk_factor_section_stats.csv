@@ -1,0 +1,11 @@
+company,year,risk_section_word_length,competition_count
+apple,2014,7710,8
+apple,2015,7765,8
+apple,2016,7680,8
+apple,2017,7779,8
+apple,2018,8082,9
+intel,2014,5824,5
+intel,2015,5833,5
+intel,2016,6406,5
+intel,2017,6669,5
+intel,2018,8458,6

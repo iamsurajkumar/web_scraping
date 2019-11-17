@@ -1,0 +1,102 @@
+Symbol,Name,Link,matched_company_name,score
+AAPL,Apple Inc.,https://en.wikipedia.org/wiki/Apple_Inc.,APPLE INC,1690.0
+ABBV,AbbVie Inc.,https://en.wikipedia.org/wiki/AbbVie_Inc.,ABBVIE INC,16101.0
+ABT,Abbott Laboratories,https://en.wikipedia.org/wiki/Abbott_Laboratories,ABBOTT LABORATORIES,1078.0
+ACN,Accenture,https://en.wikipedia.org/wiki/Accenture,ACCENTURE PLC,143357.0
+ADBE,Adobe Inc.,https://en.wikipedia.org/wiki/Adobe_Inc.,ADOBE INC,12540.0
+AGN,Allergan,https://en.wikipedia.org/wiki/Allergan,ALLERGAN INC,15708.0
+AIG,American International Group,https://en.wikipedia.org/wiki/American_International_Group,AMERICAN INTERNATIONAL GROUP,1487.0
+ALL,Allstate,https://en.wikipedia.org/wiki/Allstate,ALLSTATE CORP,28349.0
+AMGN,Amgen,https://en.wikipedia.org/wiki/Amgen,AMGEN INC,1602.0
+AMZN,Amazon.com,https://en.wikipedia.org/wiki/Amazon.com,AMAZON.COM INC,64768.0
+AXP,American Express,https://en.wikipedia.org/wiki/American_Express,AMERICAN EXPRESS CO,1447.0
+BA,Boeing,https://en.wikipedia.org/wiki/Boeing,BOEING CO,2285.0
+BAC,Bank of America,https://en.wikipedia.org/wiki/Bank_of_America,BANK OF AMERICA CORP,7647.0
+BIIB,Biogen,https://en.wikipedia.org/wiki/Biogen,VASCULAR BIOGENICS LTD,21209.0
+BK,The Bank of New York Mellon,https://en.wikipedia.org/wiki/The_Bank_of_New_York_Mellon,BANK OF NEW YORK MELLON CORP,2019.0
+BKNG,Booking Holdings,https://en.wikipedia.org/wiki/Booking_Holdings,BOOKING HOLDINGS INC,119314.0
+BLK,BlackRock,https://en.wikipedia.org/wiki/BlackRock,BLACKROCK INC,124434.0
+BMY,Bristol-Myers Squibb,https://en.wikipedia.org/wiki/Bristol-Myers_Squibb,BRISTOL-MYERS SQUIBB CO,2403.0
+BRK.B,Berkshire Hathaway,https://en.wikipedia.org/wiki/Berkshire_Hathaway,BERKSHIRE HATHAWAY,2176.0
+C,Citigroup,https://en.wikipedia.org/wiki/Citigroup,CITIGROUP INC,3243.0
+CAT,Caterpillar Inc.,https://en.wikipedia.org/wiki/Caterpillar_Inc.,CATERPILLAR INC,2817.0
+CELG,Celgene,https://en.wikipedia.org/wiki/Celgene,CELGENE CORP,13599.0
+CHTR,Charter Communications,https://en.wikipedia.org/wiki/Charter_Communications,CHARTER COMMUNICATIONS INC,126136.0
+CL,Colgate-Palmolive,https://en.wikipedia.org/wiki/Colgate-Palmolive,COLGATE-PALMOLIVE CO,3170.0
+CMCSA,Comcast,https://en.wikipedia.org/wiki/Comcast,COMCAST CORP,3226.0
+COF,Capital One,https://en.wikipedia.org/wiki/Capital_One,CAPITAL ONE FINANCIAL CORP,30990.0
+COP,ConocoPhillips,https://en.wikipedia.org/wiki/ConocoPhillips,CONOCOPHILLIPS,8549.0
+COST,Costco Wholesale Corp.,https://en.wikipedia.org/wiki/Costco_Wholesale_Corp.,COSTCO WHOLESALE CORP,29028.0
+CSCO,Cisco Systems,https://en.wikipedia.org/wiki/Cisco_Systems,CISCO SYSTEMS INC,20779.0
+CVS,CVS Health,https://en.wikipedia.org/wiki/CVS_Health,CVS HEALTH CORP,7241.0
+CVX,Chevron Corporation,https://en.wikipedia.org/wiki/Chevron_Corporation,CHEVRON CORP,2991.0
+DD,DuPont de Nemours Inc,https://en.wikipedia.org/wiki/DuPont_de_Nemours_Inc,AARON'S INC,1076.0
+DHR,Danaher Corporation,https://en.wikipedia.org/wiki/Danaher_Corporation,DANAHER CORP,3735.0
+DIS,The Walt Disney Company,https://en.wikipedia.org/wiki/The_Walt_Disney_Company,JOINT CORP (THE),22082.0
+DOW,Dow Inc.,https://en.wikipedia.org/wiki/Dow_Inc.,DOW INC,34443.0
+DUK,Duke Energy,https://en.wikipedia.org/wiki/Duke_Energy,DUKE ENERGY CORP,4093.0
+EMR,Emerson Electric,https://en.wikipedia.org/wiki/Emerson_Electric,EMERSON ELECTRIC CO,4321.0
+EXC,Exelon,https://en.wikipedia.org/wiki/Exelon,EXELON CORP,8539.0
+F,Ford Motor Company,https://en.wikipedia.org/wiki/Ford_Motor_Company,HIGHLAND COPPER COMPANY INC,182979.0
+FB,Facebook,https://en.wikipedia.org/wiki/Facebook,FACEBOOK INC,170617.0
+FDX,FedEx,https://en.wikipedia.org/wiki/FedEx,FEDEX CORP,4598.0
+GD,General Dynamics,https://en.wikipedia.org/wiki/General_Dynamics,GENERAL DYNAMICS CORP,5046.0
+GE,General Electric,https://en.wikipedia.org/wiki/General_Electric,GENERAL ELECTRIC CO,5047.0
+GILD,Gilead Sciences,https://en.wikipedia.org/wiki/Gilead_Sciences,GILEAD SCIENCES INC,24856.0
+GM,General Motors,https://en.wikipedia.org/wiki/General_Motors,GENERAL MOTORS CO,5073.0
+GOOG,Alphabet Inc.,https://en.wikipedia.org/wiki/Alphabet_Inc.,ALPHABET INC,160329.0
+GOOGL,Alphabet Inc.,https://en.wikipedia.org/wiki/Alphabet_Inc.,ALPHABET INC,160329.0
+GS,Goldman Sachs,https://en.wikipedia.org/wiki/Goldman_Sachs,GOLDMAN SACHS MLP INCM OPPS,19249.0
+HD,Home Depot,https://en.wikipedia.org/wiki/Home_Depot,HOME DEPOT INC,5680.0
+HON,Honeywell,https://en.wikipedia.org/wiki/Honeywell,HONEYWELL INTERNATIONAL INC,1300.0
+IBM,IBM,https://en.wikipedia.org/wiki/IBM,ALABAMA GAS CORP,1224.0
+INTC,Intel,https://en.wikipedia.org/wiki/Intel,INTELLIGENT COMM ENTR -OLD,3515.0
+JNJ,Johnson & Johnson,https://en.wikipedia.org/wiki/Johnson_%26_Johnson,JOHNSON & JOHNSON,6266.0
+JPM,JPMorgan Chase & Co.,https://en.wikipedia.org/wiki/JPMorgan_Chase_%26_Co.,JPMORGAN CHASE & CO,2968.0
+KHC,Kraft Heinz,https://en.wikipedia.org/wiki/Kraft_Heinz,KRAFT HEINZ CO,5568.0
+KMI,Kinder Morgan,https://en.wikipedia.org/wiki/Kinder_Morgan,KINDER MORGAN INC,6310.0
+KO,The Coca-Cola Company,https://en.wikipedia.org/wiki/The_Coca-Cola_Company,COCA-COLA CO,3144.0
+LLY,Eli Lilly and Company,https://en.wikipedia.org/wiki/Eli_Lilly_and_Company,LILLY (ELI) & CO,6730.0
+LMT,Lockheed Martin,https://en.wikipedia.org/wiki/Lockheed_Martin,LOCKHEED MARTIN CORP,6774.0
+LOW,Lowe's,https://en.wikipedia.org/wiki/Lowe%27s,LOWE'S COMPANIES INC,6829.0
+MA,MasterCard,https://en.wikipedia.org/wiki/MasterCard,MASTERCARD INC,160225.0
+MCD,McDonald's,https://en.wikipedia.org/wiki/McDonald%27s,MCDONALD'S CORP,7154.0
+MDLZ,Mondelēz International,https://en.wikipedia.org/wiki/Mondel%C4%93z_International,MONDELEZ INTERNATIONAL INC,142953.0
+MDT,Medtronic,https://en.wikipedia.org/wiki/Medtronic,MEDTRONIC PLC,7228.0
+MET,MetLife,https://en.wikipedia.org/wiki/MetLife,METLIFE INC,133768.0
+MMM,3M,https://en.wikipedia.org/wiki/3M,3M CO,7435.0
+MO,Altria,https://en.wikipedia.org/wiki/Altria,ALTRIA GROUP INC,8543.0
+MRK,Merck & Co.,https://en.wikipedia.org/wiki/Merck_%26_Co.,MERCK & CO,7257.0
+MS,Morgan Stanley,https://en.wikipedia.org/wiki/Morgan_Stanley,MORGAN STANLEY,12124.0
+MSFT,Microsoft,https://en.wikipedia.org/wiki/Microsoft,MICROSOFT CORP,12141.0
+NEE,NextEra Energy,https://en.wikipedia.org/wiki/NextEra_Energy,NEXTERA ENERGY INC,4517.0
+NFLX,Netflix,https://en.wikipedia.org/wiki/Netflix,NETFLIX INC,147579.0
+NKE,"Nike, Inc.","https://en.wikipedia.org/wiki/Nike,_Inc.",ADC TELECOMMUNICATIONS INC,1013.0
+NVDA,Nvidia,https://en.wikipedia.org/wiki/Nvidia,NVIDIA CORP,117768.0
+ORCL,Oracle Corporation,https://en.wikipedia.org/wiki/Oracle_Corporation,ORACLE CORP,12142.0
+OXY,Occidental Petroleum,https://en.wikipedia.org/wiki/Occidental_Petroleum,OCCIDENTAL PETROLEUM CORP,8068.0
+PEP,PepsiCo,https://en.wikipedia.org/wiki/PepsiCo,PEPSICO INC,8479.0
+PFE,Pfizer Inc,https://en.wikipedia.org/wiki/Pfizer_Inc,PFIZER INC,8530.0
+PG,Procter & Gamble,https://en.wikipedia.org/wiki/Procter_%26_Gamble,PROCTER & GAMBLE CO,8762.0
+PM,Philip Morris International,https://en.wikipedia.org/wiki/Philip_Morris_International,PHILIP MORRIS INTERNATIONAL,179621.0
+PYPL,PayPal,https://en.wikipedia.org/wiki/PayPal,PAYPAL HOLDINGS INC,24616.0
+QCOM,Qualcomm,https://en.wikipedia.org/wiki/Qualcomm,QUALCOMM INC,24800.0
+RTN,Raytheon,https://en.wikipedia.org/wiki/Raytheon,RAYTHEON CO,8972.0
+SBUX,Starbucks,https://en.wikipedia.org/wiki/Starbucks,STARBUCKS CORP,25434.0
+SLB,Schlumberger,https://en.wikipedia.org/wiki/Schlumberger,SCHLUMBERGER LTD,9465.0
+SO,Southern Company,https://en.wikipedia.org/wiki/Southern_Company,COLUMBUS SOUTHERN POWER CORP,3210.0
+SPG,Simon Property Group,https://en.wikipedia.org/wiki/Simon_Property_Group,SIMON PROPERTY GROUP INC,29389.0
+T,AT&T,https://en.wikipedia.org/wiki/AT%26T,AT&T INC,9899.0
+TGT,Target Corporation,https://en.wikipedia.org/wiki/Target_Corporation,TARGET CORP,3813.0
+TXN,Texas Instruments,https://en.wikipedia.org/wiki/Texas_Instruments,TEXAS INSTRUMENTS INC,10499.0
+UNH,UnitedHealth Group,https://en.wikipedia.org/wiki/UnitedHealth_Group,UNITEDHEALTH GROUP INC,10903.0
+UNP,Union Pacific Corporation,https://en.wikipedia.org/wiki/Union_Pacific_Corporation,UNION GAS LTD,10862.0
+UPS,United Parcel Service,https://en.wikipedia.org/wiki/United_Parcel_Service,UNITED PARCEL SERVICE INC,10920.0
+USB,U.S. Bancorp,https://en.wikipedia.org/wiki/U.S._Bancorp,U S BANCORP,4723.0
+UTX,United Technologies,https://en.wikipedia.org/wiki/United_Technologies,UNITED TECHNOLOGIES CORP,10983.0
+V,Visa Inc.,https://en.wikipedia.org/wiki/Visa_Inc.,VISA INC,179534.0
+VZ,Verizon Communications,https://en.wikipedia.org/wiki/Verizon_Communications,VERIZON COMMUNICATIONS INC,2136.0
+WBA,Walgreens Boots Alliance,https://en.wikipedia.org/wiki/Walgreens_Boots_Alliance,WALGREENS BOOTS ALLIANCE INC,11264.0
+WFC,Wells Fargo,https://en.wikipedia.org/wiki/Wells_Fargo,WELLS FARGO & CO,8007.0
+WMT,Walmart,https://en.wikipedia.org/wiki/Walmart,WALMART INC,11259.0
+XOM,ExxonMobil,https://en.wikipedia.org/wiki/ExxonMobil,EXXON MOBIL CORP,4503.0
